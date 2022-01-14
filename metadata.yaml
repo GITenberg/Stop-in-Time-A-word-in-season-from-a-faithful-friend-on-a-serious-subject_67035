@@ -1,5 +1,8 @@
 _repo: Stop-in-Time-A-word-in-season-from-a-faithful-friend-on-a-serious-subject_67035
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67035-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67035#Stop-in-Time-A-word-in-season-from-a-faithful-friend-on-a-serious-subject
 gutenberg_issued: '2021-12-29'
 identifiers:
   gutenberg: '67035'
